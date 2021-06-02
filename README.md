@@ -1,7 +1,9 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+
+<!-- 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 <h2>I’m Sarai, a Juniour Frontend Developer located in the GTA </h2>
 
-<p><img align="right" alt="GIF" src="https://github.com/petrogko/petrogko/blob/main/code.gif?raw=true" width="500" height="320" /></p>
 
 <ul>
 <li>🌱 I’m currently learning more about React through The Modern React Bootcamp (Hooks, Context, NextJS, Router) course on Udemy</li>
