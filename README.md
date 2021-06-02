@@ -10,7 +10,7 @@
 <li>💬 Ask me about anything</li>
 </ul>
 
-<img src="images/tech.gif" align="center">
+<img align="right" alt="GIF" src="images/tech.gif" align="center">
 
 <h2>A Tech Enthusiast who likes:</h2>
 <ul>
